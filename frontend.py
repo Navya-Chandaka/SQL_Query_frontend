@@ -1,5 +1,6 @@
 import gradio as gr
 import requests
+import os
 
 backend_url = "https://sql-query-backend-1.onrender.com/generate-sql"
 
